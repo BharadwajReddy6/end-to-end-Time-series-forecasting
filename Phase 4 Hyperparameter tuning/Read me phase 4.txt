@@ -1,0 +1,35 @@
+# Hyperparameter Tuning for LSTM and Transformer
+
+This phase focuses on optimizing the LSTM and Transformer deep learning models using both Grid Search and Bayesian Optimization techniques.
+
+---
+
+# 1️⃣ LSTM Hyperparameter Tuning (Phase5_LSTM_HyperparameterTuning.py)
+
+- Built an LSTM model with:
+  - Tuneable units
+  - Dropout rates
+  - Learning rates
+- Applied Random Search and Bayesian Optimization separately.
+- Saved the best models based on validation loss.
+
+---
+
+# 2️⃣ Transformer Hyperparameter Tuning (Phase5_Transformer_HyperparameterTuning.py)
+
+- Built a Transformer model with:
+  - Tuneable dense units
+  - Number of heads
+  - Key dimension
+  - Learning rates
+- Applied Random Search and Bayesian Optimization separately.
+
+---
+
+# ✅ Summary:
+
+This phase helps to find the best LSTM and Transformer architectures automatically to maximize forecasting performance.
+
+Output: Best hyperparameters and models ready for final training.
+
+---
