@@ -4,7 +4,18 @@
 
 ## Project Overview
 
-This project aims to predict and detect failures in a complex system (such as a train gearbox) by leveraging multivariate time series sensor data. The goal is to implement a complete end-to-end predictive maintenance solution using machine learning and deep learning techniques.
+This project focuses on forecasting daily water consumption and detecting anomalous usage patterns based on multiple influencing factors such as atmospheric temperature, rainfall, humidity, population, and hotel occupancy. 
+
+By leveraging multivariate time series sensor-like data, we implemented an end-to-end machine learning and deep learning pipeline to:
+
+- Predict future water demand.
+- Detect anomalies in consumption behavior.
+- Classify normal versus abnormal operating conditions.
+
+The project simulates a realistic, large-scale city water usage dataset over 20 years, using synthetic data generation techniques to mimic real-world behavior.
+
+The complete solution integrates data preprocessing, forecasting, anomaly detection, classification, hyperparameter tuning, GAN-based synthetic data generation, MLflow tracking, and final model deployment preparation.
+
 
 ---
 
