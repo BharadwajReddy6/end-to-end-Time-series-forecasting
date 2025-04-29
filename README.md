@@ -42,6 +42,6 @@ This project aims to predict and detect failures in a complex system (such as a 
 
 ## Conclusion
 
-This project delivers a production-ready predictive maintenance pipeline demonstrating advanced ML and DL techniques for real-world sensor data forecasting and anomaly detection. It showcases deep expertise across the entire ML lifecycle from data generation to deployment.
+This project delivers a production-ready predictive Forecasting pipeline demonstrating advanced ML and DL techniques for real-world sensor data forecasting and anomaly detection. It showcases deep expertise across the entire ML lifecycle from data generation to deployment.
 
 ---
