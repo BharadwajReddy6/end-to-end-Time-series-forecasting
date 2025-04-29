@@ -1,0 +1,37 @@
+#Final Visualizations
+
+This phase summarizes the final evaluation of models through clean visualizations:
+
+---
+
+# 1️⃣ Confusion Matrix
+
+- Heatmap showing true positives, false positives, true negatives, and false negatives.
+- Helps visualize model classification performance.
+
+---
+
+# 2️⃣ ROC Curve
+
+- Plots True Positive Rate vs False Positive Rate.
+- Area Under Curve (AUC) indicates model's ability to distinguish between classes.
+
+---
+
+# 3️⃣ Forecast Comparison
+
+- Line plot showing predicted vs true values from:
+  - ARIMA
+  - SARIMA
+  - LSTM
+  - Transformer
+  - XGBoost
+- Helps compare performance visually across different forecasting techniques.
+
+---
+
+# ✅ Summary:
+
+These visualizations allow a final clear comparison and demonstrate model effectiveness in detecting anomalies and forecasting sensor behaviors.
+
+---
